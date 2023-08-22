@@ -1,6 +1,6 @@
-# R/Python Exercise 3
+# R/Python Exercise 4
 
-Repository for R/Python Exercise 3 from the course: INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism
+Repository for R/Python Exercise 4 from the course: INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism
 
 ## Instructions
 
@@ -15,8 +15,8 @@ Repository for R/Python Exercise 3 from the course: INFO 523 - Data Mining and D
    - A Google Collab project
    
 ### 2. Go to the web page for the exercise:
-   If Using R: found [here](https://datamineaz.org/slides/week6/rexercise3).
-   If Using Python: found [here](https://datamineaz.org/python/classificationpython)
+   If Using R: found [here](https://datamineaz.org/slides/week8/rexercise4).
+   If Using Python: found [here](https://datamineaz.org/python/regressionpython)
    
 ### 3. Reproduce the exercise in a new Quarto Document or Jupyter Notebook
   - Hint: Quarto can render a document into a Jupyter Notebook. I recommend just using Quarto unless you're using Google Collab. See tutorial documentation on available formats [here]([https://posit.cloud/](https://quarto.org/docs/output-formats/all-formats.html)https://quarto.org/docs/output-formats/all-formats.html).
