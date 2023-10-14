@@ -15,7 +15,7 @@ Repository for R/Python Exercise 4 from the course: INFO 523 - Data Mining and D
    - A Google Collab project
    
 ### 2. Go to the web page for the exercise:
-   If Using R: found [here](https://datamineaz.org/slides/week8/rexercise4).
+   If Using R: found [here](https://datamineaz.org/slides/week8/rexercise4.2).
    If Using Python: found [here](https://datamineaz.org/python/regressionpython)
    
 ### 3. Reproduce the exercise in a new Quarto Document or Jupyter Notebook
